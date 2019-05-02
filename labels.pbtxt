@@ -1,0 +1,22 @@
+
+item {
+   id: 1
+   name: 'hamsaaya'
+}
+item {
+   id: 2
+   name: 'ardhachandra'
+}
+item {
+   id: 3
+   name: 'pataaka'
+}
+item {
+   id: 4
+   name: 'soochi'
+}
+item {
+   id: 5
+   name: 'katharimukha'
+}
+
