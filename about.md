@@ -1,0 +1,2 @@
+# Indian-Dance-Kathakali-Mudras-
+There are 24 Basic Mudras (hand gestures) in the "Hasthalakshana Deepika", the book of hand gestures, which Kathakali is followed. There are 'Asamyutha Mudras' (that is shown using single hand) and 'Samyutha Mudras' (mudras shown in double hands) in each Basic Mudras, to show different symbols. Considering all these Mudras and their seperations there are totally 470 symbols used in Kathakali. In this project i made 5 class mudra detection and description to know beginers and forgein katakali viewers
